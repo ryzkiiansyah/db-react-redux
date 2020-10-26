@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "a",
+            "alamat": "a",
+            "umur": 1,
+            "nohp": "1"
+        },
+        {
+            "id": 2,
+            "nama": "b",
+            "alamat": "b",
+            "umur": 2,
+            "nohp": "2"
+        },
+        {
+            "id": 3,
+            "nama": "c",
+            "alamat": "c",
+            "umur": 3,
+            "nohp": "3"
+        },
+        {
+            "id": 4,
+            "nama": "d",
+            "alamat": "d",
+            "umur": 4,
+            "nohp": "4"
+        },
+        {
+            "id": 5,
+            "nama": "e",
+            "alamat": "e",
+            "umur": 5,
+            "nohp": "5"
+        }
+    ]
+}
